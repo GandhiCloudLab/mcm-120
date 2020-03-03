@@ -1,4 +1,4 @@
-# Installing MCM App
+# Installing MCM App in IBM Cloud Pak for Multicloud Management Version 1.2.0 
 
 ## Steps
 
